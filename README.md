@@ -1,2 +1,2 @@
-# actions-example
+# actions
 Test GitHub actions.
